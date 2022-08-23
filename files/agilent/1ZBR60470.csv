@@ -1,0 +1,15 @@
+Sample name:,1ZBR60470
+Operator:,Isabela,Data file:,1ZBR60470.dx
+Instrument:,7890_TOGA,Injection date:,2022-08-02 15:57:06-03:00
+Acq. method:,TOGA_AQUISICAO.amx,Location:,5
+Processing method:,TOGA_PROCESSAMENTO.pmx
+Sample Name,1ZBR60470
+Name,RT [min],Area,Amount  [PPM],Concentration  [PPM]
+CO2,1.90,8768.286,934.235,1130.424
+C2H4,2.60,24.419,1.293,2.043
+C2H6,3.23,6.392,0.334,0.698
+O2,4.14,48.681,2278.677,1162.125
+N2,4.60,242.421,14084.819,6479.017
+CH4,5.23,36.469,3.882,2.834
+CO,7.16,584.078,60.445,28.409
+

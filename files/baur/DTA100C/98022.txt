@@ -1,0 +1,41 @@
+Protocolo da medição
+
+Equipamento de teste de ruptura dielétrica
+DTA 100C Versão:  1.16
+Número de série: 1901842017
+04/07/2022 11:53
+_____________________________
+
+Informações sobre a medição
+
+Nome do protocolo:		.......................
+Número de amostra: 		98022
+Medição normatizada: 		IEC 60156:2018
+Forma de eletrodo: 		IEC156 Fig. II
+Distância dos eletrodos: 		2,5 mm
+Freqüência de teste: 	60 Hz
+
+_____________________________
+
+Configurações específicas da norma 
+
+mistura contínua
+_____________________________
+
+Valores medidos
+
+Temperatura: 		21 °C
+
+Teste 1:			22,1  kV
+Teste 2:			20,7  kV
+Teste 3:			46,2  kV
+Teste 4:			27,6  kV
+Teste 5:			33,1  kV
+Teste 6:			28,9  kV
+
+Valor médio:				29,8  kV
+Desvio padrão: 			9,2  kV
+Desvio padrão/Valor médio:	31,0  %
+
+
+Teste efetuado por:	.......................

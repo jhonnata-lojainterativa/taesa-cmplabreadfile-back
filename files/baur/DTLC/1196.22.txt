@@ -1,0 +1,43 @@
+Protocolo da medição
+
+Ponte de medição de fator de dissipação
+DTL C Versão:  1.13 .0.00.0.56
+Número de série: 081701015
+05/07/2022 13:56
+_____________________________
+
+Informações sobre a medição
+
+Nome do protocolo:		.......................
+Número de amostra: 		1196.22
+Medição normatizada: 		ASTM D924-08 Routine
+Célula de teste:
+    Designação de célula: 		....................... 
+    Tipo: 		IEC60247 Fig.3 (72,8pF)
+    Número de série:	
+Última calibração: 	29/06/2022
+_____________________________
+
+Valores medidos
+
+05/07/2022 14:06
+Épsilon:		2,15
+tan delta
+    a 50 Hz:		15,1503 %
+    a 60 Hz:		12,6253 %
+Tensão de teste:		2000,3 VCA
+			1000,2 VAC/mm
+Freqüência de teste:		55 Hz
+Temperatura de teste:	100 °C
+
+
+Teste finalizado com sucesso!
+
+
+Umidade relativa do ar / Temperatura ambiente: 	...............................
+
+
+Tipo do líquido isolante: 	...............................
+
+
+Teste efetuado por:	.......................

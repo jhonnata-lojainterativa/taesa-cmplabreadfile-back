@@ -1,0 +1,45 @@
+C:\Users\jhonn\Desktop\readfile\bin\Debug\net6.0\readfile.exe
+C:\Users\jhonn\Desktop\readfile\bin\Debug\net6.0\readfile.deps.json
+C:\Users\jhonn\Desktop\readfile\bin\Debug\net6.0\readfile.runtimeconfig.json
+C:\Users\jhonn\Desktop\readfile\bin\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\readfile\bin\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.csproj.AssemblyReference.cache
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.AssemblyInfoInputs.cache
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.AssemblyInfo.cs
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\refint\readfile.dll
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\readfile.genruntimeconfig.cache
+C:\Users\jhonn\Desktop\readfile\obj\Debug\net6.0\ref\readfile.dll
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\bin\Debug\net6.0\readfile.exe
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\bin\Debug\net6.0\readfile.deps.json
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\bin\Debug\net6.0\readfile.runtimeconfig.json
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\bin\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\bin\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.csproj.AssemblyReference.cache
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.AssemblyInfoInputs.cache
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.AssemblyInfo.cs
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\refint\readfile.dll
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\readfile.genruntimeconfig.cache
+C:\Users\jhonn\Desktop\readfile - CMP-LAB\obj\Debug\net6.0\ref\readfile.dll
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\bin\Debug\net6.0\readfile.exe
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\bin\Debug\net6.0\readfile.deps.json
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\bin\Debug\net6.0\readfile.runtimeconfig.json
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\bin\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\bin\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.csproj.AssemblyReference.cache
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.AssemblyInfoInputs.cache
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.AssemblyInfo.cs
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.dll
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\refint\readfile.dll
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.pdb
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\readfile.genruntimeconfig.cache
+C:\Users\jhonn\Desktop\CMP-Lab\readfile\obj\Debug\net6.0\ref\readfile.dll
