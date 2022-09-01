@@ -1,0 +1,2502 @@
+﻿31/08/2022 15:15:31
+S40 Download23.0.0
+S40-03-V003-R014-210111
+
+
+ProfileName:      	Std. Low Press.
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:03:00
+TimeToMeasure:    	00:01:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	2
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	Std. RINSING L.P.
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:03:00
+TimeToMeasure:    	00:01:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	0.2 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	2
+SampleCount:      	1
+FlushFlowRate:    	35
+
+ProfileName:      	Std. High Press.
+Pressure:         	High
+PumpContinuous:   	No
+TimeToFlush:      	00:00:00
+TimeToMeasure:    	00:00:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	Manual
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	OLEO MINERAL ISOL
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:01:00
+TimeToMeasure:    	00:00:05
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	4
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	OMI 100 mL
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:01:00
+TimeToMeasure:    	00:01:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	4
+SampleCount:      	1
+FlushFlowRate:    	10
+
+ProfileName:      	21/09/03 15:05:36
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:01:00
+TimeToMeasure:    	00:00:05
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	4
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	LIMPAR
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:05:00
+TimeToMeasure:    	00:00:05
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	0
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	21/09/03 15:12:15
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:01:00
+TimeToMeasure:    	00:01:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	20.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	4
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	OMI
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:01:00
+TimeToMeasure:    	00:00:20
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	100.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	1
+SampleCount:      	1
+FlushFlowRate:    	25
+
+ProfileName:      	OMI 10 mL
+Pressure:         	Low
+PumpContinuous:   	No
+TimeToFlush:      	00:00:00
+TimeToMeasure:    	00:00:00
+MeasureRepeatTime:	00:00:01
+MeasureVolume:    	10.0 ml
+SampleRepeatTime: 	00:00:01
+TimeToPumpOff:    	00:00:02
+StopType:         	# Repeats
+
+Repeats:       	4
+SampleCount:      	1
+FlushFlowRate:    	0
+
+Measurement aborted by user!
+
+
+ProfileName:	Std. Low Press.
+MeasVolume:	   10.0
+SampleID:	TESTE
+ServiceHours:	
+OilService:	
+Comment:	AMBIENTACAO
+
+Block 1	 Number of Measurements 3
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	11:39:26	3200	1052	246	102	35	24	8	3	->	15	14	11	7F(6,6,5,6,6,7)	6B(6,6,5,6,6,7)
+09/03/2021	11:39:51	2665	845	219	120	58	42	20	14	->	15	14	11	10F(6,5,5,6,7,10)	7E(6,5,5,6,7,10)
+09/03/2021	11:40:16	2349	801	208	91	25	16	2	0	->	15	14	10	5A(5,5,5,5,4,000)	5B(5,5,5,5,4,000)
+
+
+ProfileName:	Std. Low Press.
+MeasVolume:	   10.0
+SampleID:	TESTE
+ServiceHours:	
+OilService:	
+Comment:	AMBIENTACAO
+
+Block 1	 Number of Measurements 3
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	11:45:29	1380	492	151	77	27	12	2	1	->	14	13	10	6F(5,5,4,5,4,6)	5B(5,5,4,5,4,6)
+09/03/2021	11:45:54	1535	531	136	63	25	13	1	1	->	14	13	10	6F(5,5,4,5,3,6)	5B(5,5,4,5,3,6)
+09/03/2021	11:46:19	1493	503	120	53	15	5	0	0	->	14	13	10	5A(5,5,4,4,000,000)	5B(5,5,4,4,000,000)
+
+
+ProfileName:	Std. Low Press.
+MeasVolume:	   10.0
+SampleID:	TESTE
+ServiceHours:	
+OilService:	
+Comment:	AMBIENTACAO
+
+Block 1	 Number of Measurements 3
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	11:51:28	628	241	70	26	13	4	1	0	->	13	12	9	4A(4,3,3,4,3,000)	4D(4,3,3,4,3,000)
+09/03/2021	11:51:53	596	214	67	31	13	9	1	1	->	13	12	9	6F(3,3,3,4,3,6)	4D(3,3,3,4,3,6)
+09/03/2021	11:52:18	588	220	76	29	11	7	1	0	->	13	12	9	4D(3,3,3,4,3,000)	4D(3,3,3,4,3,000)
+Measurement aborted by user!
+
+
+ProfileName:	Std. Low Press.
+MeasVolume:	   10.0
+SampleID:	TESTE
+ServiceHours:	
+OilService:	
+Comment:	AMBIENTACAO
+
+Block 1	 Number of Measurements 3
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	12:03:58	525	160	49	28	9	4	1	0	->	13	11	9	4D(3,3,3,4,3,000)	4D(3,3,3,4,3,000)
+09/03/2021	12:04:23	541	181	52	20	5	4	0	0	->	13	11	8	3A(3,3,2,3,000,000)	3B(3,3,2,3,000,000)
+09/03/2021	12:04:48	557	192	55	29	7	3	0	0	->	13	11	9	3A(3,3,3,3,000,000)	3B(3,3,3,3,000,000)
+
+
+ProfileName:	OLEO MINERAL ISOL
+MeasVolume:	   10.0
+SampleID:	415/20
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	14:59:11	6622	2319	699	314	133	92	46	31	->	17	15	12	11F(7,7,6,8,9,11)	9E(7,7,6,8,9,11)
+09/03/2021	14:59:36	5526	1964	564	264	119	86	56	52	->	16	15	12	12F(7,7,6,7,9,12)	9E(7,7,6,7,9,12)
+09/03/2021	15:00:01	5441	1823	495	190	65	36	13	11	->	16	15	11	9F(7,6,6,7,7,9)	7D(7,6,6,7,7,9)
+09/03/2021	15:00:26	5324	1757	498	174	49	27	4	2	->	16	15	11	7A(7,6,6,6,5,7)	6B(7,6,6,6,5,7)
+09/03/2021	15:00:51	5501	1897	511	195	55	24	4	0	->	16	15	11	7A(7,6,6,6,5,000)	6B(7,6,6,6,5,000)
+
+
+ProfileName:	21/09/03 15:05:36
+MeasVolume:	   10.0
+SampleID:	415/20 
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 3
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	15:07:45	6064	2131	593	225	60	32	1	0	->	16	15	12	7A(7,7,6,6,3,000)	7B(7,7,6,6,3,000)
+09/03/2021	15:08:10	5731	1933	538	199	63	40	9	3	->	16	15	11	7A(7,6,6,7,6,7)	7D(7,6,6,7,6,7)
+09/03/2021	15:08:35	5573	1931	504	193	55	25	4	0	->	16	15	11	7A(7,6,6,6,5,000)	6B(7,6,6,6,5,000)
+Measurement aborted by user!
+
+
+ProfileName:	21/09/03 15:12:15
+MeasVolume:	   20.0
+SampleID:	415/20 
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	15:15:23	21906	8552	3184	1712	851	642	346	203	->	17	16	14	12F(8,8,8,9,11,12)	11E(8,8,8,9,11,12)
+09/03/2021	15:16:12	19294	6953	2100	875	235	108	13	2	->	17	16	13	7A(7,7,7,7,6,6)	7B(7,7,7,7,6,6)
+09/03/2021	15:17:01	19875	7290	2279	980	273	117	12	1	->	17	16	13	8D(7,7,7,8,6,5)	8D(7,7,7,8,6,5)
+09/03/2021	15:17:50	21033	7904	2389	1024	286	124	9	1	->	17	16	13	8A(8,8,7,8,5,5)	8B(8,8,7,8,5,5)
+09/03/2021	15:18:39	20425	7488	2255	918	238	117	11	2	->	17	16	13	8A(8,7,7,7,6,6)	7B(8,7,7,7,6,6)
+
+
+ProfileName:	21/09/03 15:12:15
+MeasVolume:	   20.0
+SampleID:	415/20 
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	15:22:05	16650	5901	1745	691	208	103	18	2	->	17	15	12	7A(7,7,6,7,6,6)	7B(7,7,6,7,6,6)
+09/03/2021	15:22:54	16548	5981	1831	741	213	114	23	3	->	17	15	12	7A(7,7,7,7,7,6)	7B(7,7,7,7,7,6)
+09/03/2021	15:23:43	16047	5820	1721	677	187	77	8	1	->	17	15	12	7A(7,7,6,7,5,5)	7B(7,7,6,7,5,5)
+09/03/2021	15:24:32	16454	5810	1690	659	176	85	6	1	->	17	15	12	7A(7,7,6,7,5,5)	7B(7,7,6,7,5,5)
+09/03/2021	15:25:21	15195	5371	1607	629	180	71	11	1	->	17	15	12	7A(7,7,6,7,6,5)	7B(7,7,6,7,6,5)
+
+
+ProfileName:	OLEO MINERAL ISOL
+MeasVolume:	   10.0
+SampleID:	415/20 
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	15:27:44	6847	2449	715	264	68	39	6	1	->	17	15	12	7A(7,7,6,7,6,6)	7B(7,7,6,7,6,6)
+09/03/2021	15:28:09	6839	2377	660	258	75	36	6	0	->	17	15	12	7A(7,7,6,7,6,000)	7B(7,7,6,7,6,000)
+09/03/2021	15:28:34	7004	2475	689	220	57	27	3	0	->	17	15	12	7A(7,7,6,6,5,000)	7B(7,7,6,6,5,000)
+09/03/2021	15:28:59	6966	2473	723	283	85	43	6	3	->	17	15	12	7A(7,7,6,7,6,7)	7B(7,7,6,7,6,7)
+09/03/2021	15:29:24	7114	2551	743	293	91	45	7	0	->	17	15	12	7A(7,7,6,7,6,000)	7B(7,7,6,7,6,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	415/20 
+ServiceHours:	
+OilService:	
+Comment:	TQ 1 LJD
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	15:52:12	70185	23880	6504	2577	684	310	25	2	->	17	15	12	7A(7,7,6,7,4,3)	7B(7,7,6,7,4,3)
+09/03/2021	15:56:13	79413	27545	7444	2849	735	310	33	7	->	17	15	12	7A(7,7,6,7,5,5)	7B(7,7,6,7,5,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	410/20
+ServiceHours:	
+OilService:	
+Comment:	TQ 2 LJD
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	16:04:36	26690	7126	2035	1071	565	449	213	124	->	15	13	11	9F(6,5,5,6,8,9)	8E(6,5,5,6,8,9)
+09/03/2021	16:08:37	23572	4979	944	370	135	97	43	21	->	15	13	9	7F(5,5,3,4,5,7)	5B(5,5,3,4,5,7)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1536/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	17:31:31	6117	1989	546	236	112	78	31	16	->	13	11	8	6F(3,3,3,4,5,6)	5E(3,3,3,4,5,6)
+09/03/2021	17:35:32	3262	973	250	98	24	13	3	0	->	12	10	7	3A(3,2,1,2,1,000)	2B(3,2,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	411/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	17:43:04	5930	2302	799	336	116	64	9	1	->	13	12	9	4D(3,3,3,4,3,1)	4D(3,3,3,4,3,1)
+09/03/2021	17:47:05	2919	1119	390	156	41	22	4	1	->	12	11	8	3D(2,2,2,3,1,1)	3D(2,2,2,3,1,1)
+Measurement aborted by user!
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	412/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/03/2021	17:58:28	38352	11848	3542	1761	891	648	324	193	->	16	14	11	10F(6,6,6,7,8,10)	8E(6,6,6,7,8,10)
+09/03/2021	18:02:29	34002	9559	2337	957	261	118	10	1	->	16	14	10	6A(6,5,5,5,3,1)	5B(6,5,5,5,3,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1227/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/06/2021	13:56:20	8772	3455	1695	1075	654	550	297	178	->	14	12	11	10F(4,4,5,7,8,10)	8E(4,4,5,7,8,10)
+09/06/2021	14:00:21	7625	2624	1040	562	282	223	148	104	->	13	12	10	9F(4,4,4,5,7,9)	7E(4,4,4,5,7,9)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	409/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/09/2021	08:40:48	2090	593	127	45	11	4	0	0	->	12	10	6	2A(2,1,0,1,000,000)	1B(2,1,0,1,000,000)
+09/09/2021	08:44:49	1953	497	106	36	14	9	4	1	->	11	9	6	2A(2,1,0,1,1,1)	1B(2,1,0,1,1,1)
+
+
+ProfileName:	OLEO MINERAL ISOL
+MeasVolume:	   10.0
+SampleID:	1561/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/13/2021	12:59:53	1047	494	179	92	44	26	3	1	->	14	13	10	6D(4,5,5,6,5,6)	6D(4,5,5,6,5,6)
+09/13/2021	13:00:18	647	277	96	55	18	14	1	0	->	13	12	10	5D(4,4,4,5,3,000)	5D(4,4,4,5,3,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1561/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/13/2021	13:02:46	1886	543	140	71	23	14	3	0	->	11	10	7	2A(2,1,1,2,1,000)	2D(2,1,1,2,1,000)
+09/13/2021	13:06:47	1657	415	105	40	14	9	2	0	->	11	9	6	2A(2,1,0,1,0,000)	1B(2,1,0,1,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	151/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/16/2021	11:43:13	14169	3858	756	254	67	36	7	2	->	14	12	9	5A(5,4,3,3,2,3)	4B(5,4,3,3,2,3)
+09/16/2021	11:47:14	15355	4359	1072	402	98	49	4	0	->	14	13	9	5A(5,4,3,4,1,000)	4B(5,4,3,4,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/17/2021	12:22:30	5716	2567	991	517	227	147	29	3	->	13	12	10	5D(3,4,4,5,5,4)	5D(3,4,4,5,5,4)
+09/17/2021	12:26:31	8413	5858	4470	4031	3792	3723	3594	3520	->	14	13	13	>12F(4,5,7,9,12,>12)	12E(4,5,7,9,12,>12)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/20/2021	13:30:12	12427	3155	772	283	83	48	9	2	->	14	12	9	4A(4,4,3,4,3,3)	4B(4,4,3,4,3,3)
+09/20/2021	13:34:13	11181	2374	483	171	40	18	1	0	->	14	12	8	4A(4,3,2,3,000,000)	3B(4,3,2,3,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/20/2021	13:42:20	13139	3001	593	177	38	21	6	1	->	14	12	8	5A(5,4,2,2,2,1)	4B(5,4,2,2,2,1)
+09/20/2021	13:46:21	14682	3543	781	268	72	34	6	2	->	14	12	9	5A(5,4,3,3,2,3)	4B(5,4,3,3,2,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	403/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+09/20/2021	14:03:40	8489	1701	379	147	32	19	2	1	->	14	11	8	4A(4,3,2,2,0,1)	3B(4,3,2,2,0,1)
+09/20/2021	14:07:41	8479	1738	303	82	17	5	2	0	->	14	11	7	4A(4,3,1,1,0,000)	3B(4,3,1,1,0,000)
+Measurement aborted by user!
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	51821
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/01/2021	16:42:37	9574	2675	522	188	68	34	5	1	->	14	12	8	4A(4,4,2,3,2,1)	4B(4,4,2,3,2,1)
+10/01/2021	16:46:38	8866	2203	368	111	27	9	2	0	->	14	12	7	4A(4,3,2,2,0,000)	3B(4,3,2,2,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	582/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/19/2021	14:27:55	2050	830	334	192	85	64	23	15	->	12	10	8	6F(2,2,2,4,4,6)	4D(2,2,2,4,4,6)
+10/19/2021	14:31:56	8095	7255	6562	6207	5882	5782	5556	5463	->	14	13	13	>12F(4,5,7,10,12,>12)	12E(4,5,7,10,12,>12)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	583/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/19/2021	14:44:34	3180	1356	547	310	182	147	85	54	->	12	11	9	8F(3,3,3,5,6,8)	6E(3,3,3,5,6,8)
+10/19/2021	14:48:35	1193	383	131	65	21	11	2	0	->	11	9	7	2D(1,1,1,2,0,000)	2D(1,1,1,2,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	519/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/22/2021	16:13:36	4277	1836	724	293	61	31	3	0	->	13	11	9	3A(3,3,3,3,1,000)	3B(3,3,3,3,1,000)
+10/22/2021	16:17:37	2512	928	351	142	38	14	2	2	->	12	10	8	3F(2,2,2,2,0,3)	2B(2,2,2,2,0,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	560/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/22/2021	16:37:45	555360	153234	25460	7649	2063	1073	168	19	->	20	18	13	10A(10,9,8,8,7,7)	9B(10,9,8,8,7,7)
+10/22/2021	16:41:46	545763	145368	20562	4418	617	225	26	2	->	20	18	13	10A(10,9,7,7,4,3)	9B(10,9,7,7,4,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	560/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/22/2021	16:55:11	979816	311719	69824	24323	5285	2273	222	16	->	20	19	15	11A(11,11,9,10,8,6)	11B(11,11,9,10,8,6)
+10/22/2021	16:59:12	997373	319513	72426	25051	5492	2310	211	20	->	20	19	15	11A(11,11,9,10,7,7)	11B(11,11,9,10,7,7)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	515/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/22/2021	17:09:09	22775	7379	1790	688	175	83	19	9	->	15	13	10	6F(5,5,4,5,4,6)	5B(5,5,4,5,4,6)
+10/22/2021	17:13:10	3299	1056	325	147	46	24	7	2	->	12	11	8	3A(3,2,2,3,2,3)	3D(3,2,2,3,2,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	515/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/22/2021	17:23:50	5182	2284	895	368	114	54	12	1	->	13	12	9	4D(3,3,3,4,3,1)	4D(3,3,3,4,3,1)
+10/22/2021	17:27:51	4804	2155	754	246	38	13	0	0	->	13	12	8	3A(3,3,3,2,000,000)	3B(3,3,3,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	72920
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/26/2021	16:31:10	54454	8986	1692	670	215	125	35	16	->	16	14	10	7A(7,5,4,5,5,6)	5B(7,5,4,5,5,6)
+10/26/2021	16:35:11	48081	6362	696	188	56	21	1	1	->	16	13	8	6A(6,5,2,3,000,1)	5B(6,5,2,3,000,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	72920
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/26/2021	16:44:56	46205	6100	678	207	53	19	4	0	->	16	13	8	6A(6,5,2,3,1,000)	5B(6,5,2,3,1,000)
+10/26/2021	16:48:57	46252	6053	720	227	56	25	3	1	->	16	13	8	6A(6,5,3,3,1,1)	5B(6,5,3,3,1,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	730/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/26/2021	17:05:31	8077	1188	206	74	22	13	4	1	->	14	11	7	4A(4,2,1,2,1,1)	2B(4,2,1,2,1,1)
+10/26/2021	17:09:32	6671	791	98	31	11	8	3	0	->	13	10	5	4A(4,2,0,1,1,000)	2B(4,2,0,1,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	584/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/26/2021	17:26:34	1835	634	178	79	27	19	5	2	->	11	10	7	3F(2,2,1,2,2,3)	2B(2,2,1,2,2,3)
+10/26/2021	17:30:35	1356	484	135	64	24	12	2	1	->	11	9	6	2D(1,1,1,2,0,1)	2D(1,1,1,2,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	585/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/26/2021	17:36:46	2020	548	146	46	18	11	2	0	->	12	10	6	2A(2,1,0,1,0,000)	1B(2,1,0,1,0,000)
+10/26/2021	17:40:47	1717	358	97	36	11	6	3	0	->	11	9	6	2A(2,1,0,1,1,000)	1B(2,1,0,1,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	550/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/29/2021	16:01:54	2360	880	297	132	42	26	14	2	->	12	10	8	4E(2,2,2,3,4,3)	4E(2,2,2,3,4,3)
+10/29/2021	16:05:55	1397	448	120	47	12	8	2	1	->	11	9	6	1A(1,1,0,1,0,1)	1B(1,1,0,1,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	545/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/29/2021	16:13:01	1684	542	157	81	19	11	0	0	->	11	10	7	2A(2,1,1,1,000,000)	1B(2,1,1,1,000,000)
+10/29/2021	16:17:02	1526	421	96	35	11	3	1	0	->	11	9	6	1A(1,1,0,1,000,000)	1B(1,1,0,1,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	728/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+10/29/2021	16:25:05	4123	1550	460	199	50	32	9	1	->	13	11	8	3A(3,3,2,3,3,1)	3B(3,3,2,3,3,1)
+10/29/2021	16:29:06	3744	1360	388	114	32	20	4	0	->	12	11	7	3A(3,3,2,2,1,000)	3B(3,3,2,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/05/2021	14:33:52	9172	3503	999	347	109	57	23	6	->	14	12	9	5F(4,4,3,4,4,5)	4B(4,4,3,4,4,5)
+11/05/2021	14:37:53	8489	3005	721	145	19	8	2	0	->	14	12	8	4A(4,4,2,1,0,000)	4B(4,4,2,1,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	517/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/18/2021	14:11:54	17543	5820	2008	1223	763	610	331	195	->	15	13	11	10F(5,5,5,7,8,10)	8E(5,5,5,7,8,10)
+11/18/2021	14:15:55	12008	2375	422	140	40	22	1	0	->	14	12	8	4A(4,3,2,3,000,000)	3B(4,3,2,3,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	517/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/18/2021	14:21:53	11662	2323	431	161	49	17	2	0	->	14	12	8	4A(4,3,2,3,0,000)	3B(4,3,2,3,0,000)
+11/18/2021	14:25:54	11596	2401	492	180	55	26	8	0	->	14	12	8	4A(4,3,2,3,3,000)	3B(4,3,2,3,3,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	201
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/19/2021	11:46:59	4595	2179	970	690	550	517	463	450	->	13	12	10	11F(3,3,4,6,9,11)	9E(3,3,4,6,9,11)
+11/19/2021	11:51:00	2892	931	247	95	26	15	2	1	->	12	10	7	2A(2,2,1,2,0,1)	2B(2,2,1,2,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	201
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/19/2021	11:56:53	2925	1085	328	133	35	19	7	1	->	12	11	8	2A(2,2,2,2,2,1)	2B(2,2,2,2,2,1)
+11/19/2021	12:00:54	2945	1105	344	140	41	21	5	0	->	12	11	8	3D(2,2,2,3,2,000)	3D(2,2,2,3,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	547/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/20/2021	10:55:33	2773	1331	524	273	119	74	15	3	->	12	11	9	4D(2,3,3,4,4,4)	4D(2,3,3,4,4,4)
+11/20/2021	10:59:34	2002	826	238	88	27	14	1	0	->	12	10	7	2A(2,2,1,2,000,000)	2B(2,2,1,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I10
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/24/2021	11:47:04	92587	26632	4885	1338	258	115	28	16	->	17	15	11	7A(7,7,5,5,5,6)	7B(7,7,5,5,5,6)
+11/24/2021	11:51:05	93076	26383	4653	1223	201	83	13	2	->	17	15	11	7A(7,7,5,5,3,3)	7B(7,7,5,5,3,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I10
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/24/2021	11:57:17	92645	25931	4549	1168	199	88	12	2	->	17	15	11	7A(7,7,5,5,3,3)	7B(7,7,5,5,3,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I3
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/24/2021	12:54:49	213758	70822	15539	5039	1099	465	41	3	->	18	17	13	9A(9,8,7,7,5,4)	8B(9,8,7,7,5,4)
+11/24/2021	12:58:50	213180	70282	15348	4955	1013	397	35	3	->	18	17	13	9A(9,8,7,7,5,4)	8B(9,8,7,7,5,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I3
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/24/2021	13:05:13	209502	69082	14637	4609	925	333	22	4	->	18	17	13	9A(9,8,7,7,4,4)	8B(9,8,7,7,4,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I39
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/25/2021	14:05:04	143155	47248	12409	6214	4005	3658	3415	3372	->	18	16	13	>12F(8,8,7,9,12,>12)	12E(8,8,7,9,12,>12)
+11/25/2021	14:09:05	197807	61997	12495	3661	695	252	20	1	->	18	16	12	8A(8,8,7,7,4,1)	8B(8,8,7,7,4,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I39
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/25/2021	14:25:02	194350	59863	11871	3273	495	168	11	0	->	18	16	12	8A(8,8,6,6,3,000)	8B(8,8,6,6,3,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/25/2021	15:05:11	66	66	66	66	66	66	66	66	->	7	7	7	9F(000,000,1,3,6,9)	6E(000,000,1,3,6,9)
+11/25/2021	15:09:12	20	20	20	20	20	20	20	20	->	5	5	5	7F(000,000,00,1,4,7)	4E(000,000,00,1,4,7)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/25/2021	15:40:04	324726	114969	31794	12940	3771	1869	191	21	->	19	17	14	9A(9,9,8,9,7,7)	9B(9,9,8,9,7,7)
+11/25/2021	15:44:05	324074	115207	31819	12917	3703	1776	184	13	->	19	17	14	9A(9,9,8,9,7,6)	9B(9,9,8,9,7,6)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/25/2021	15:53:17	316953	111005	29418	11440	2964	1362	115	8	->	19	17	14	9A(9,9,8,9,7,5)	9B(9,9,8,9,7,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I87
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/26/2021	16:22:36	93032	32259	9854	5622	3865	3568	3289	3207	->	17	16	13	>12F(7,7,7,9,11,>12)	11E(7,7,7,9,11,>12)
+11/26/2021	16:26:37	186721	58729	12293	4056	815	321	26	0	->	18	16	13	8A(8,8,7,7,4,000)	8B(8,8,7,7,4,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I87
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/26/2021	16:34:07	187217	58598	12189	3953	763	277	25	1	->	18	16	12	8A(8,8,7,7,4,1)	8B(8,8,7,7,4,1)
+11/26/2021	16:38:08	174054	52119	9693	2849	475	167	7	0	->	18	16	12	8A(8,8,6,6,2,000)	8B(8,8,6,6,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I63
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/26/2021	17:47:26	26151	8380	2245	812	278	144	32	6	->	15	14	10	6A(6,5,4,5,5,5)	5B(6,5,4,5,5,5)
+11/26/2021	17:51:27	9005	2423	737	334	131	75	9	0	->	14	12	9	4A(4,3,3,4,3,000)	4D(4,3,3,4,3,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	I63
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+11/26/2021	17:57:05	8422	2343	705	271	90	55	10	3	->	14	12	9	4A(4,3,3,4,3,4)	4D(4,3,3,4,3,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	102/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/03/2021	11:31:58	5079	2860	2070	1809	1656	1612	1569	1564	->	13	12	11	>12F(3,4,6,8,10,>12)	10E(3,4,6,8,10,>12)
+12/03/2021	11:35:59	2845	802	231	87	25	11	4	0	->	12	10	7	2A(2,2,1,2,1,000)	2B(2,2,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	104/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/03/2021	11:51:08	5891	2223	697	282	91	44	10	3	->	13	12	9	4D(3,3,3,4,3,4)	4D(3,3,3,4,3,4)
+12/03/2021	11:55:09	5244	1969	671	251	78	38	6	2	->	13	11	9	4D(3,3,3,4,2,3)	4D(3,3,3,4,2,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	105/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/03/2021	12:32:37	13340	4969	1480	523	130	68	7	0	->	14	13	10	5A(5,5,4,4,2,000)	5B(5,5,4,4,2,000)
+12/03/2021	12:36:38	9982	3241	869	254	49	27	5	0	->	14	12	9	4A(4,4,3,3,2,000)	4B(4,4,3,3,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	105/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/03/2021	12:45:48	9151	2918	738	216	35	17	1	0	->	14	12	8	4A(4,4,2,2,000,000)	4B(4,4,2,2,000,000)
+12/03/2021	12:49:49	8889	2721	697	228	31	14	4	1	->	14	12	8	4A(4,4,3,2,1,1)	4B(4,4,3,2,1,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	697/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/03/2021	13:04:04	7081	1928	460	145	27	12	2	0	->	13	11	8	4A(4,3,2,2,0,000)	3B(4,3,2,2,0,000)
+12/03/2021	13:08:05	6470	1763	374	128	30	16	1	0	->	13	11	7	4A(4,3,2,2,000,000)	3B(4,3,2,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	185/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	12:09:38	7671	3745	1416	574	154	83	15	3	->	13	12	10	5D(4,4,4,5,4,4)	5D(4,4,4,5,4,4)
+12/14/2021	12:13:39	6490	3053	1095	409	92	40	2	0	->	13	12	9	4A(4,4,3,4,0,000)	4B(4,4,3,4,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	185/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	12:20:49	6473	2979	1096	390	94	46	4	0	->	13	12	9	4A(4,4,3,4,1,000)	4B(4,4,3,4,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	592/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	12:31:46	11599	5696	1666	361	54	24	3	1	->	14	13	9	5B(4,5,3,3,1,1)	5B(4,5,3,3,1,1)
+12/14/2021	12:35:47	11742	5440	1578	365	42	16	2	0	->	14	13	9	5B(4,5,3,3,0,000)	5B(4,5,3,3,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1862/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	12:45:17	3491	1322	369	102	18	10	2	0	->	12	11	7	3A(3,3,1,1,0,000)	3B(3,3,1,1,0,000)
+12/14/2021	12:49:18	2108	620	155	49	11	7	2	2	->	12	10	6	3F(2,2,0,1,0,3)	2B(2,2,0,1,0,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1864/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	13:00:12	6858	2697	783	243	59	33	6	0	->	13	12	8	4A(4,4,3,3,2,000)	4B(4,4,3,3,2,000)
+12/14/2021	13:04:13	5015	2182	651	205	40	27	7	3	->	13	12	8	4F(3,3,2,3,2,4)	3B(3,3,2,3,2,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1863/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	13:54:40	1587	502	130	41	11	6	1	0	->	11	10	6	2A(2,1,0,1,000,000)	1B(2,1,0,1,000,000)
+12/14/2021	13:58:41	3191	1396	474	179	52	32	3	0	->	12	11	8	3A(3,3,2,3,1,000)	3B(3,3,2,3,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1863/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	14:06:04	10492	5350	1967	711	218	116	23	4	->	14	13	10	5B(4,5,4,5,4,4)	5B(4,5,4,5,4,4)
+12/14/2021	14:10:05	7258	3609	1280	520	150	70	4	1	->	13	12	10	4A(4,4,4,4,1,1)	4B(4,4,4,4,1,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1852/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	15:41:44	6484	3674	1283	378	86	39	13	2	->	13	12	9	4A(4,4,3,4,3,3)	4B(4,4,3,4,3,3)
+12/14/2021	15:45:45	2598	1495	528	153	25	11	3	0	->	12	11	8	3B(2,3,2,2,1,000)	3B(2,3,2,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1855/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/14/2021	16:01:07	6506	3158	1038	346	93	45	7	0	->	13	12	9	4A(4,4,3,4,2,000)	4B(4,4,3,4,2,000)
+12/14/2021	16:05:08	7532	3738	1171	374	86	39	6	0	->	13	12	9	4A(4,4,3,4,2,000)	4B(4,4,3,4,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	664/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/15/2021	15:39:01	25660	11156	3819	1697	531	289	80	48	->	15	14	11	8F(6,6,5,6,6,8)	6B(6,6,5,6,6,8)
+12/15/2021	15:43:02	20681	8179	2429	1052	259	106	12	3	->	15	14	11	5A(5,5,5,5,3,4)	5B(5,5,5,5,3,4)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	443/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 4
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/15/2021	16:30:24	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:31:25	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:32:26	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:33:27	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+Measurement aborted by user!
+
+
+ProfileName:	OMI 10 mL
+MeasVolume:	   10.0
+SampleID:	443/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 4
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/15/2021	16:39:09	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:40:10	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:41:11	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+12/15/2021	16:42:12	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+Measurement aborted by user!
+Measurement aborted by user!
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	103/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/17/2021	11:53:19	6704	2889	1131	640	368	285	152	98	->	13	12	10	9F(4,4,4,6,7,9)	7E(4,4,4,6,7,9)
+12/17/2021	11:57:20	5070	1693	449	146	39	21	5	1	->	13	11	8	3A(3,3,2,2,2,1)	3B(3,3,2,2,2,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	103/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/17/2021	12:07:26	9709	3866	1160	445	121	55	8	2	->	14	12	9	4A(4,4,4,4,3,3)	4B(4,4,4,4,3,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+12/17/2021	16:33:17	16078	8660	5903	4394	3302	3073	2439	1626	->	15	14	13	>12F(5,5,7,9,11,>12)	11E(5,5,7,9,11,>12)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	0204.20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/17/2022	11:24:26	18797	5551	1388	603	168	97	19	3	->	15	13	10	5A(5,5,4,5,4,4)	5B(5,5,4,5,4,4)
+01/17/2022	11:28:27	17432	4708	1175	469	150	83	19	0	->	15	13	9	5A(5,4,4,4,4,000)	4B(5,4,4,4,4,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	0204.20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/17/2022	11:51:30	17067	4773	1326	525	172	97	10	1	->	15	13	10	5A(5,4,4,5,3,1)	5D(5,4,4,5,3,1)
+01/17/2022	11:55:31	17130	4645	1325	555	160	78	7	0	->	15	13	10	5A(5,4,4,5,2,000)	5D(5,4,4,5,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	0204.20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/17/2022	12:01:01	1570	552	196	87	27	12	4	2	->	11	10	7	3F(2,1,1,2,1,3)	2D(2,1,1,2,1,3)
+01/17/2022	12:05:02	1384	530	235	129	37	16	1	0	->	11	10	7	2C(1,1,2,2,000,000)	2C(1,1,2,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	0204.20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/17/2022	12:18:57	4981	2484	721	217	56	24	3	2	->	13	12	8	4B(3,4,2,3,1,3)	4B(3,4,2,3,1,3)
+01/17/2022	12:22:58	4882	2342	713	208	34	12	2	0	->	13	12	8	3A(3,3,2,2,0,000)	3B(3,3,2,2,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	203/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/19/2022	13:14:40	2686	1272	509	241	92	47	9	3	->	12	11	8	4D(2,3,3,4,3,4)	4D(2,3,3,4,3,4)
+01/19/2022	13:18:41	2139	1027	409	165	45	24	3	0	->	12	11	8	3D(2,2,2,3,1,000)	3D(2,2,2,3,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	203/20
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/19/2022	13:41:52	3310	1619	575	239	50	22	3	0	->	12	11	8	3A(3,3,3,3,1,000)	3B(3,3,3,3,1,000)
+01/19/2022	13:45:53	2514	1241	460	156	21	8	0	0	->	12	11	8	3B(2,3,2,2,000,000)	3B(2,3,2,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	586/2
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/21/2022	13:36:47	3557	1570	598	305	139	96	32	16	->	12	11	9	6F(3,3,3,4,5,6)	5E(3,3,3,4,5,6)
+01/21/2022	13:40:48	2361	718	163	60	18	6	2	0	->	12	10	6	2A(2,2,1,1,0,000)	2B(2,2,1,1,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	587/2
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+01/21/2022	13:56:57	1058	430	120	46	19	11	3	0	->	11	9	6	1A(1,1,0,1,1,000)	1B(1,1,0,1,1,000)
+01/21/2022	14:00:58	1128	426	126	49	17	9	4	0	->	11	9	6	1A(1,1,0,1,1,000)	1B(1,1,0,1,1,000)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	1865/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/02/2022	13:42:15	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+02/02/2022	13:43:16	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	1865/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/02/2022	13:48:04	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1865/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/02/2022	13:57:57	2748	801	348	188	106	80	45	24	->	12	10	8	7F(2,2,2,4,5,7)	5E(2,2,2,4,5,7)
+02/02/2022	14:01:58	2225	462	127	54	11	5	1	0	->	12	9	6	2A(2,1,0,1,000,000)	1B(2,1,0,1,000,000)
+Measurement aborted by user!
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	869/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/04/2022	14:01:19	3953	1702	757	491	305	244	141	102	->	12	11	9	9F(3,3,4,5,7,9)	7E(3,3,4,5,7,9)
+02/04/2022	14:05:20	2679	692	123	34	11	5	2	1	->	12	10	6	2A(2,2,0,1,0,1)	2B(2,2,0,1,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	672/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/04/2022	14:38:35	1198	476	147	52	14	12	2	0	->	11	9	6	1A(1,1,0,1,0,000)	1B(1,1,0,1,0,000)
+02/04/2022	14:42:36	999	367	114	44	14	7	0	0	->	10	9	6	1A(1,1,0,1,000,000)	1B(1,1,0,1,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	905/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/07/2022	14:11:00	2508	1325	734	519	337	287	146	97	->	12	11	10	9F(2,3,4,6,7,9)	7E(2,3,4,6,7,9)
+02/07/2022	14:15:01	1277	459	131	65	21	12	2	1	->	11	9	7	2D(1,1,1,2,0,1)	2D(1,1,1,2,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	906/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/07/2022	14:47:27	1425	503	153	66	19	10	1	1	->	11	10	7	1A(1,1,1,1,000,1)	1B(1,1,1,1,000,1)
+02/07/2022	14:51:28	1167	342	90	31	7	4	0	0	->	11	9	5	1A(1,1,0,0,000,000)	1B(1,1,0,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	907/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/07/2022	15:02:34	1378	353	99	35	9	5	0	0	->	11	9	6	1A(1,1,0,0,000,000)	1B(1,1,0,0,000,000)
+02/07/2022	15:06:35	1196	264	59	19	4	2	0	0	->	11	9	5	1A(1,0,00,00,000,000)	0B(1,0,00,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	909/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/07/2022	15:16:50	1643	568	143	58	16	7	1	0	->	11	10	6	2A(2,1,1,1,000,000)	1B(2,1,1,1,000,000)
+02/07/2022	15:20:51	1342	370	79	26	9	5	0	0	->	11	9	5	1A(1,1,00,0,000,000)	1B(1,1,00,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/14/2022	13:45:48	1605	621	200	93	40	25	8	1	->	11	10	7	3D(2,2,1,3,3,1)	3D(2,2,1,3,3,1)
+02/14/2022	13:49:49	1076	315	77	39	16	11	3	0	->	11	9	6	1A(1,1,0,1,1,000)	1B(1,1,0,1,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/14/2022	14:11:46	748	297	124	57	19	6	2	0	->	10	9	6	1C(0,0,1,1,0,000)	1C(0,0,1,1,0,000)
+02/14/2022	14:15:47	604	209	84	41	21	15	5	0	->	10	8	6	2D(0,0,0,2,2,000)	2D(0,0,0,2,2,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/18/2022	10:48:47	1692	670	235	107	42	23	3	0	->	11	10	7	3D(2,2,1,3,1,000)	3D(2,2,1,3,1,000)
+02/18/2022	10:52:48	1364	417	114	50	15	8	2	0	->	11	9	6	1A(1,1,0,1,0,000)	1B(1,1,0,1,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+02/18/2022	11:27:08	1767	682	216	81	27	18	3	2	->	11	10	7	3F(2,2,1,2,1,3)	2B(2,2,1,2,1,3)
+02/18/2022	11:31:09	1736	637	196	77	18	10	2	0	->	11	10	7	2A(2,2,1,1,0,000)	2B(2,2,1,1,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	669/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/03/2022	15:54:03	8343	2770	669	228	63	40	6	2	->	14	12	8	4A(4,4,3,3,2,3)	4B(4,4,3,3,2,3)
+03/03/2022	15:58:04	7352	2189	457	135	21	8	2	0	->	13	12	8	4A(4,3,2,2,0,000)	3B(4,3,2,2,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1159/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/03/2022	16:11:39	2598	966	273	99	19	10	2	1	->	12	10	7	2A(2,2,1,1,0,1)	2B(2,2,1,1,0,1)
+03/03/2022	16:15:40	2974	1187	345	109	25	15	4	0	->	12	11	7	2A(2,2,1,2,1,000)	2B(2,2,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	709/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/04/2022	16:11:17	3552	1182	369	148	49	24	3	2	->	12	11	8	3A(3,2,2,3,1,3)	3D(3,2,2,3,1,3)
+03/04/2022	16:15:18	2621	652	130	39	9	4	0	0	->	12	10	6	2A(2,2,0,0,000,000)	2B(2,2,0,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	710/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/04/2022	16:23:27	4044	1232	415	182	46	22	9	2	->	13	11	8	3A(3,3,2,3,3,3)	3B(3,3,2,3,3,3)
+03/04/2022	16:27:28	3901	1284	438	184	44	21	1	0	->	12	11	8	3A(3,3,2,3,000,000)	3B(3,3,2,3,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	670/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/14/2022	14:12:06	25109	4260	618	215	89	59	19	12	->	15	13	8	6A(6,4,2,4,4,6)	4B(6,4,2,4,4,6)
+03/14/2022	14:16:07	22046	3325	489	255	151	118	67	50	->	15	12	9	8F(5,4,3,4,6,8)	6E(5,4,3,4,6,8)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	670/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/14/2022	14:36:48	29492	5619	630	159	36	25	4	3	->	15	13	8	6A(6,5,2,2,1,4)	5B(6,5,2,2,1,4)
+03/14/2022	14:40:49	30434	6160	693	172	46	21	2	0	->	15	13	8	6A(6,5,2,3,0,000)	5B(6,5,2,3,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	256
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/24/2022	16:52:26	18744	5280	1243	504	197	130	52	30	->	15	13	10	7F(5,5,4,5,5,7)	5B(5,5,4,5,5,7)
+03/24/2022	16:56:27	17560	4501	846	297	64	30	1	1	->	15	13	9	5A(5,4,3,3,000,1)	4B(5,4,3,3,000,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	257
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/24/2022	17:16:35	10844	4061	1246	396	111	71	21	14	->	14	13	9	6F(4,4,3,4,4,6)	4B(4,4,3,4,4,6)
+03/24/2022	17:20:36	11714	4415	1289	332	59	29	2	1	->	14	13	9	4A(4,4,3,3,0,1)	4B(4,4,3,3,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	20/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/24/2022	17:28:16	9306	2919	715	181	42	18	3	0	->	14	12	8	4A(4,4,2,3,1,000)	4B(4,4,2,3,1,000)
+03/24/2022	17:32:17	8920	2941	745	269	93	58	14	9	->	14	12	9	6F(4,4,3,4,4,6)	4B(4,4,3,4,4,6)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	258/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/26/2022	08:57:42	27679	6751	1160	353	100	58	20	13	->	15	13	9	6A(6,5,3,4,4,6)	5B(6,5,3,4,4,6)
+03/26/2022	09:01:43	26293	6130	858	221	41	19	1	0	->	15	13	8	6A(6,5,3,3,000,000)	5B(6,5,3,3,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	258/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/26/2022	09:14:32	47385	14074	3089	1028	251	124	23	4	->	16	14	11	6A(6,6,5,5,4,4)	6B(6,6,5,5,4,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	258/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/26/2022	09:28:21	29242	7537	1414	418	91	41	9	0	->	15	13	9	6A(6,5,3,4,3,000)	5B(6,5,3,4,3,000)
+03/26/2022	09:32:22	28291	7069	1316	353	91	52	18	10	->	15	13	9	6A(6,5,3,4,4,6)	5B(6,5,3,4,4,6)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	910/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+03/29/2022	09:53:19	1772	490	186	94	44	29	8	7	->	11	9	7	5F(2,1,1,3,3,5)	3D(2,1,1,3,3,5)
+03/29/2022	09:57:20	1016	194	43	21	7	5	0	0	->	11	8	5	1A(1,0,00,0,000,000)	0B(1,0,00,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1155\21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	08:52:43	2473	923	272	121	40	22	6	5	->	12	10	7	5F(2,2,2,3,2,5)	3D(2,2,2,3,2,5)
+04/05/2022	08:56:44	1557	433	91	34	11	8	2	1	->	11	9	6	1A(1,1,0,1,0,1)	1B(1,1,0,1,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1158/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	09:07:31	1314	387	72	29	8	4	1	0	->	11	9	5	1A(1,1,0,0,000,000)	1B(1,1,0,0,000,000)
+04/05/2022	09:11:32	1204	357	55	17	5	2	0	0	->	11	9	5	1A(1,1,00,00,000,000)	1B(1,1,00,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1157/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	09:18:33	2142	579	130	41	10	5	2	0	->	12	10	6	2A(2,1,0,0,0,000)	1B(2,1,0,0,0,000)
+04/05/2022	09:22:34	1827	423	74	20	6	1	0	0	->	11	9	5	2A(2,1,00,0,000,000)	1B(2,1,00,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	571/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	09:34:44	2108	532	101	35	11	5	3	1	->	12	10	6	2A(2,1,0,1,1,1)	1B(2,1,0,1,1,1)
+04/05/2022	09:38:45	1824	395	55	17	4	4	1	0	->	11	9	5	2A(2,1,00,00,000,000)	1B(2,1,00,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	902/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	15:03:08	4486	1162	297	110	18	3	0	0	->	13	11	7	3A(3,2,2,1,000,000)	2B(3,2,2,1,000,000)
+04/05/2022	15:07:09	4157	988	211	67	10	1	0	0	->	13	10	7	3A(3,2,1,0,000,000)	2B(3,2,1,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	161/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	15:29:21	5395	1350	253	77	13	7	0	0	->	13	11	7	3A(3,3,1,1,000,000)	3B(3,3,1,1,000,000)
+04/05/2022	15:33:22	4780	1132	185	39	3	1	0	0	->	13	11	6	3A(3,2,0,000,000,000)	2B(3,2,0,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	911/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/05/2022	16:06:20	2655	725	155	56	12	6	1	0	->	12	10	6	2A(2,2,1,1,000,000)	2B(2,2,1,1,000,000)
+04/05/2022	16:10:21	2475	745	155	45	5	4	1	0	->	12	10	6	2A(2,2,0,00,000,000)	2B(2,2,0,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1154/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/14/2022	09:52:37	4551	2169	1062	741	518	425	245	152	->	13	12	10	10F(3,3,4,6,8,10)	8E(3,3,4,6,8,10)
+04/14/2022	09:56:38	2578	714	126	21	1	1	1	0	->	12	10	5	2A(2,2,00,000,000,000)	2B(2,2,00,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	160/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+04/19/2022	10:18:26	2656	684	217	96	46	31	9	2	->	12	10	7	3D(2,2,1,3,3,3)	3D(2,2,1,3,3,3)
+04/19/2022	10:22:27	1976	311	38	18	6	4	3	1	->	11	9	5	2A(2,1,00,0,1,1)	1B(2,1,00,0,1,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/03/2022	13:33:31	2181	851	265	104	30	20	4	1	->	12	10	7	2A(2,2,1,2,1,1)	2B(2,2,1,2,1,1)
+05/03/2022	13:37:32	2027	836	362	234	145	121	73	51	->	12	10	8	8F(2,2,3,4,6,8)	6E(2,2,3,4,6,8)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	535/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/06/2022	14:44:18	14789	2987	572	194	63	31	6	1	->	14	12	8	5A(5,4,2,3,2,1)	4B(5,4,2,3,2,1)
+05/06/2022	14:48:19	13754	2448	407	138	46	23	2	0	->	14	12	8	5A(5,4,2,3,0,000)	4B(5,4,2,3,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	535/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/06/2022	15:03:50	21808	6441	1693	600	138	61	4	0	->	15	13	10	5A(5,5,4,4,1,000)	5B(5,5,4,4,1,000)
+05/06/2022	15:07:51	19620	5249	1197	380	96	45	2	0	->	15	13	9	5A(5,5,3,4,0,000)	5B(5,5,3,4,0,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	535/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/06/2022	15:32:16	9040	3495	1081	394	78	33	2	0	->	14	12	9	4A(4,4,3,4,0,000)	4B(4,4,3,4,0,000)
+05/06/2022	15:36:17	13497	10332	8670	8005	7510	7329	6928	6640	->	14	14	14	>12E(5,6,8,10,>12,>12)	>12E(5,6,8,10,>12,>12)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	535/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/06/2022	15:42:23	23502	10168	3817	2003	1028	888	731	662	->	15	14	12	12F(5,6,6,7,9,12)	9E(5,6,6,7,9,12)
+05/06/2022	15:46:24	8350	3157	1454	994	795	759	682	627	->	14	12	10	12F(4,4,5,7,9,12)	9E(4,4,5,7,9,12)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	483/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/12/2022	15:19:00	4780	1374	342	103	25	10	4	0	->	13	11	7	3A(3,3,1,2,1,000)	3B(3,3,1,2,1,000)
+05/12/2022	15:23:01	4014	1028	224	62	17	12	0	0	->	13	11	6	3A(3,2,1,1,000,000)	2B(3,2,1,1,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	96922
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/23/2022	11:39:17	14003	3463	679	260	112	91	53	44	->	14	12	9	8F(5,4,3,4,5,8)	5E(5,4,3,4,5,8)
+05/23/2022	11:43:18	13056	2740	394	104	21	12	4	0	->	14	12	7	5A(5,4,1,2,1,000)	4B(5,4,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	136/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/24/2022	09:43:18	9901	4201	1855	1209	752	583	266	168	->	14	13	11	10F(4,4,5,7,8,10)	8E(4,4,5,7,8,10)
+05/24/2022	09:47:19	7241	2250	573	220	70	45	9	2	->	13	12	8	4A(4,3,3,3,3,3)	3B(4,3,3,3,3,3)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	43/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/27/2022	15:57:59	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+05/27/2022	15:59:00	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+05/27/2022	16:00:01	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+05/27/2022	16:01:02	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+05/27/2022	16:02:03	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	43/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+05/27/2022	16:11:05	1728	687	225	101	32	17	4	0	->	11	10	7	2A(2,2,1,2,1,000)	2B(2,2,1,2,1,000)
+05/27/2022	16:15:06	1354	479	147	56	21	10	0	0	->	11	9	6	2D(1,1,1,2,000,000)	2D(1,1,1,2,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	35/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/10/2022	11:10:54	3334	1253	488	286	159	130	65	47	->	12	11	9	8F(3,3,3,5,6,8)	6E(3,3,3,5,6,8)
+06/10/2022	11:14:55	2193	579	132	53	26	20	5	3	->	12	10	6	4F(2,1,0,2,2,4)	2D(2,1,0,2,2,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	183/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/15/2022	11:18:02	3027	1279	642	481	325	266	139	103	->	12	11	9	9F(2,3,4,6,7,9)	7E(2,3,4,6,7,9)
+06/15/2022	11:22:03	1704	311	51	27	15	11	4	1	->	11	9	5	2A(2,1,00,1,1,1)	1B(2,1,00,1,1,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	848/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/15/2022	11:47:07	1631	404	75	28	13	9	2	0	->	11	9	5	2A(2,1,0,1,0,000)	1B(2,1,0,1,0,000)
+06/15/2022	11:51:08	1470	368	76	34	17	13	7	5	->	11	9	6	5F(1,1,0,1,2,5)	2E(1,1,0,1,2,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	184/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/15/2022	12:19:18	2025	506	138	74	40	35	16	12	->	12	10	7	6F(2,1,1,3,4,6)	4E(2,1,1,3,4,6)
+06/15/2022	12:23:19	1814	408	93	42	16	9	1	0	->	11	9	6	2A(2,1,0,1,000,000)	1B(2,1,0,1,000,000)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	11:43:23	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+06/23/2022	11:44:24	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+
+
+ProfileName:	OMI 100 mL
+MeasVolume:	   10.0
+SampleID:	1123/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 5
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	11:48:10	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+06/23/2022	11:49:11	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+06/23/2022	11:50:12	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+06/23/2022	11:51:13	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+06/23/2022	11:52:14	0	0	0	0	0	0	0	0	->	-	-	-	000A(000,000,000,000,000,000)	000B(000,000,000,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1123/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	11:55:03	6943308	1507238	32281	14998	6838	4114	1026	357	->	23	21	14	>12A(>12,>12,9,10,10,11)	>12B(>12,>12,9,10,10,11)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1123/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	12:05:17	4871	2617	1158	718	316	188	65	39	->	13	12	10	8F(3,4,4,6,6,8)	6D(3,4,4,6,6,8)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1123/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	12:10:59	5450587	657143	17130	9116	3405	1862	324	11	->	23	20	14	>12A(>12,12,8,9,8,6)	12B(>12,12,8,9,8,6)
+06/23/2022	12:15:00	3865724	293473	15348	8607	3081	1623	250	7	->	22	19	14	>12A(>12,10,8,9,8,5)	10B(>12,10,8,9,8,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1124/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	12:29:51	3565	1412	420	198	104	81	47	40	->	12	11	8	8F(3,3,2,4,5,8)	5E(3,3,2,4,5,8)
+06/23/2022	12:33:52	2310	696	141	44	11	6	2	1	->	12	10	6	2A(2,2,0,1,0,1)	2B(2,2,0,1,0,1)
+Measurement aborted by user!
+Measurement aborted by user!
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1126/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	13:52:49	1111	371	76	22	2	0	0	0	->	11	9	5	1A(1,1,00,000,000,000)	1B(1,1,00,000,000,000)
+06/23/2022	13:56:50	1124	331	59	18	3	1	0	0	->	11	9	5	1A(1,1,00,000,000,000)	1B(1,1,00,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1125/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	14:03:34	1425	383	75	24	2	1	0	0	->	11	9	5	1A(1,1,00,000,000,000)	1B(1,1,00,000,000,000)
+06/23/2022	14:07:35	1517	371	74	23	4	3	0	0	->	11	9	5	1A(1,1,00,00,000,000)	1B(1,1,00,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1115/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	14:15:46	11182	9346	8371	8052	7791	7677	7481	7387	->	14	14	14	>12E(4,5,8,10,>12,>12)	>12E(4,5,8,10,>12,>12)
+06/23/2022	14:19:47	5604	1762	421	145	33	20	3	2	->	13	11	8	3A(3,3,2,2,1,3)	3B(3,3,2,2,1,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1115/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 1
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+06/23/2022	14:25:28	6543	2216	581	199	42	13	0	0	->	13	12	8	4A(4,3,2,3,000,000)	3B(4,3,2,3,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	34/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/01/2022	11:03:12	6436	3161	1443	858	430	314	114	52	->	13	12	10	8F(4,4,4,6,7,8)	7E(4,4,4,6,7,8)
+07/01/2022	11:07:13	3445	1281	452	249	151	117	64	45	->	12	11	8	8F(3,3,3,4,6,8)	6E(3,3,3,4,6,8)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	982/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/01/2022	11:31:43	2906	1038	304	125	46	27	8	2	->	12	11	7	3D(2,2,2,3,3,3)	3D(2,2,2,3,3,3)
+07/01/2022	11:35:44	4889	2393	844	306	102	57	18	3	->	13	12	9	4D(3,3,3,4,4,4)	4D(3,3,3,4,4,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	695/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/01/2022	11:46:23	1565	583	177	65	18	10	3	1	->	11	10	7	2A(2,1,1,1,1,1)	1B(2,1,1,1,1,1)
+07/01/2022	11:50:24	1532	552	172	67	20	10	3	0	->	11	10	7	1A(1,1,1,1,1,000)	1B(1,1,1,1,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	818/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/01/2022	12:19:52	2742	1150	398	162	56	33	11	6	->	12	11	8	5F(2,2,2,3,3,5)	3D(2,2,2,3,3,5)
+07/01/2022	12:23:53	4165	2005	682	240	68	43	13	2	->	13	12	8	3A(3,3,3,3,3,3)	3B(3,3,3,3,3,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	119622
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/05/2022	14:04:42	5151	2427	980	551	330	272	177	134	->	13	12	10	10F(3,3,4,6,7,10)	7E(3,3,4,6,7,10)
+07/05/2022	14:08:43	2102	821	226	57	14	10	4	0	->	12	10	6	2A(2,2,1,1,1,000)	2B(2,2,1,1,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	998/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+07/13/2022	13:57:50	3998	1481	451	216	89	60	29	5	->	12	11	8	5E(3,3,2,4,5,5)	5E(3,3,2,4,5,5)
+07/13/2022	14:01:51	3119	899	192	69	17	9	1	0	->	12	10	7	2A(2,2,1,1,000,000)	2B(2,2,1,1,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1441/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/08/2022	11:37:02	4286	1654	539	242	95	73	48	22	->	13	11	8	7F(3,3,3,4,5,7)	5E(3,3,3,4,5,7)
+08/08/2022	11:41:03	2177	575	158	88	36	27	13	3	->	12	10	7	4F(2,1,1,2,3,4)	3E(2,1,1,2,3,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1442/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/08/2022	11:54:17	2571	1011	306	118	30	18	6	4	->	12	11	7	4F(2,2,2,2,2,4)	2B(2,2,2,2,2,4)
+08/08/2022	11:58:18	2636	1045	291	93	22	6	3	0	->	12	11	7	2A(2,2,1,2,1,000)	2B(2,2,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1443/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/08/2022	12:06:38	3313	1288	336	113	25	9	1	0	->	12	11	7	3A(3,3,2,2,000,000)	3B(3,3,2,2,000,000)
+08/08/2022	12:10:39	2315	859	243	84	10	5	0	0	->	12	10	7	2A(2,2,1,0,000,000)	2B(2,2,1,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1444/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/08/2022	13:14:20	3009	552	136	58	14	4	1	0	->	12	10	6	2A(2,1,1,1,000,000)	1B(2,1,1,1,000,000)
+08/08/2022	13:18:21	2519	373	80	33	12	8	3	2	->	12	9	6	3F(2,1,0,1,1,3)	1B(2,1,0,1,1,3)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1440/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/08/2022	13:44:49	2025	481	111	39	6	3	1	0	->	12	9	6	2A(2,1,0,0,000,000)	1B(2,1,0,0,000,000)
+08/08/2022	13:48:50	2299	611	136	66	38	30	19	7	->	12	10	7	5F(2,2,1,2,4,5)	4E(2,2,1,2,4,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	09:39:51	10824	4318	1507	707	340	257	136	87	->	14	13	10	9F(4,4,4,6,7,9)	7E(4,4,4,6,7,9)
+08/10/2022	09:43:52	7813	2741	810	279	80	46	8	4	->	13	12	9	4A(4,4,3,4,3,4)	4B(4,4,3,4,3,4)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	09:50:59	2865	593	126	51	12	4	0	0	->	12	10	6	2A(2,1,0,1,000,000)	1B(2,1,0,1,000,000)
+08/10/2022	09:55:00	2500	502	110	34	7	4	0	0	->	12	10	6	2A(2,1,0,0,000,000)	1B(2,1,0,0,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1446\22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	10:07:22	3819	589	179	99	57	44	26	16	->	12	10	7	6F(3,1,1,3,4,6)	4E(3,1,1,3,4,6)
+08/10/2022	10:11:23	3368	355	46	19	3	3	1	1	->	12	9	5	3A(3,1,00,000,000,1)	1B(3,1,00,000,000,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1447\22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	10:23:10	655	143	47	21	10	4	1	1	->	10	8	5	1F(0,00,00,0,000,1)	0D(0,00,00,0,000,1)
+08/10/2022	10:27:11	428	67	19	8	2	2	0	0	->	9	7	3	0A(0,000,000,000,000,000)	000B(0,000,000,000,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	1448\22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	10:37:00	1209	295	87	37	10	4	1	1	->	11	9	6	1A(1,0,0,0,000,1)	0B(1,0,0,0,000,1)
+08/10/2022	10:41:01	814	138	21	9	5	1	1	0	->	10	8	4	1A(1,00,000,00,000,000)	00B(1,00,000,00,000,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	01441/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/10/2022	16:50:50	5028	1720	493	217	81	49	22	13	->	13	11	8	6F(3,3,2,4,4,6)	4D(3,3,2,4,4,6)
+08/10/2022	16:54:51	4434	1363	304	93	18	8	2	1	->	13	11	7	3A(3,3,1,1,0,1)	3B(3,3,1,1,0,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	256/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/16/2022	09:52:00	31425	8155	1762	749	317	231	128	97	->	15	14	10	9F(6,5,4,6,7,9)	7E(6,5,4,6,7,9)
+08/16/2022	09:56:01	29268	6739	1024	264	51	23	15	7	->	15	13	9	6A(6,5,3,3,4,5)	5B(6,5,3,3,4,5)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	256/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/16/2022	10:09:02	22099	6753	1675	735	308	174	16	3	->	15	13	10	6D(5,5,4,6,4,4)	6D(5,5,4,6,4,4)
+08/16/2022	10:13:03	20226	5949	1292	471	144	79	9	1	->	15	13	9	5A(5,5,4,4,3,1)	5B(5,5,4,4,3,1)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	607/22
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/18/2022	14:51:50	6637	2280	628	219	76	57	27	12	->	13	12	8	6F(4,3,3,3,5,6)	5E(4,3,3,3,5,6)
+08/18/2022	14:55:51	3522	1159	291	83	24	11	4	0	->	12	11	7	3A(3,2,1,2,1,000)	2B(3,2,1,2,1,000)
+
+
+ProfileName:	OMI
+MeasVolume:	  100.0
+SampleID:	667/21
+ServiceHours:	
+OilService:	
+Comment:	
+
+Block 1	 Number of Measurements 2
+Date	Time	NIST							
+		>4.0	>6.0	>10.0	>14.0	>21.0	>25.0	>38.0	>70.0	->	ISO(4µm)	ISO(6µm)	ISO(14µm)	AS 4095E	GJB 420B
+08/31/2022	15:04:41	1924	847	300	150	64	48	17	13	->	11	10	8	6F(2,2,2,3,4,6)	4E(2,2,2,3,4,6)
+08/31/2022	15:08:42	2874	1477	553	222	55	26	6	0	->	12	11	8	3B(2,3,3,3,2,000)	3B(2,3,3,3,2,000)
