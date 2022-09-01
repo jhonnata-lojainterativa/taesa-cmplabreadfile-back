@@ -1,0 +1,144 @@
+$S PC/LIMS V1
+$S Devices V1
+$S device  V1
+P 5.899.0011	S 33028
+$S ADC1
+ADC 3.851.1200	S 36447
+$E
+$S MSB1
+$S 899 Stirrer
+S 09488	
+$E
+$E
+$E
+$E
+$S Sample data V1
+117120		4.3598	g
+$E
+$S MPL V2
+$S Mode 1	04	KFC	V1.0
+1	0.0	56.7	0.0	0.0	25.0
+2	2.0	54.8	0.5	0.0	25.0
+3	4.0	51.0	3.0	86.5	25.0
+4	6.0	52.1	4.1	46.3	25.0
+5	8.0	51.1	5.2	31.6	25.0
+6	10.0	50.5	5.8	23.4	25.0
+7	12.0	49.9	6.4	18.3	25.0
+8	13.8	51.5	6.6	14.4	25.0
+$E
+$E
+$S DETERM V1
+$S Props V2.1
+KFC	modified	117120-20220829-162747	330281661790467000	2022-08-29 16:27:47	original	Regular without errors	 ()	2																												
+$E
+$S Results V1
+$S Result 1C.R1 V1
+Water	0.3	ppm	0
+$E
+$S Result 1C.R2 V1
+		%	-1
+$E
+$S Result 1C.R3 V1
+		%	-1
+$E
+$S Result 1C.R4 V1
+		%	-1
+$E
+$S Result 1C.R5 V1
+		%	-1
+$E
+$E
+$S Mode 1	04	KFC	V2.0
+$S EP V1
+1.3151	51.492		13.8	25.0	1
+$E
+$S Cal V1
+$E
+$S StdAdd V1
+$E
+$E
+$S Other Variables V1
+$S System V1
+25.0	2	757	0			0		0
+$E
+$S Mode 1	04	KFC	V2.1
+			15.0		56.476	25.0	56.863	25.0	1.2	51.492	25.0							8	12.8	24.9	Regular stop	manual		6.64		
+$E
+$S Statistic V2
+$E
+$S ComVar local V1
+$E
+$S Titrant V1
+$E
+$S Sensor V1
+$S Sensor1 V2.1
+Metal electrode	Metal electrode		
+$E
+$E
+$E
+$S Calc Vars V1
+$S Calc1 V1
+$S R1 V1
+EP1	1.3151	C00	4.3598	
+$E
+$S R2 V1
+
+$E
+$S R3 V1
+
+$E
+$S R4 V1
+
+$E
+$S R5 V1
+
+$E
+$E
+$E
+$S Messages V1
+$E
+$E
+$S Methodproperties V1.1
+KFC	modified	 ()	2006-06-15 22:00:00	 ()	2006-06-15 22:00:00																													
+$E
+$S Method V1
+$S Methodoptions V1.1
+off	3	off	ID1	ID2	on	on	off	1.0	g	off	0	9999999999	off	30 s	on		off	off	Card 1		ID1	on	off	off	on	on	no	**********00**	off	off
+$E
+$S 01	T+	
+off	150
+$E
+$S 02	WAIT	Wait
+8 s	-16	off	on
+$E
+$S 03	REQUEST	Data request
+off	on	off	off	on
+$E
+$S 04	KFC	Karl Fischer coulometry
+	50.0 mV	optimal	70.0 mV	max.	15.0 µg/min	rel. drift	5 µg/min	10 s	0 s	25.0 °C	2.0 s	off	on	Metal electrode	10 µA	off	automatic	on	8	off	on	20 µg/min	auto	0.0 µg/min	off	off	5 µg/min	off	0 s	off	50 mV	0 s	w/o diaphr.	400 mA	off	off
+$E
+$S 05	BEEP	Acoustic signal
+1
+$E
+$S 06	CALC	Calculation
+$S R1
+1	Water	EP1/C00	1	ppm	0	off	off	0	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R2
+2			2	%	1	off	off	1	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R3
+3			2	%	2	off	off	2	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R4
+4			2	%	3	off	off	3	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R5
+5			2	%	4	off	off	4	on	off	Round	off	invalid	invalid	Display message		
+$E
+$E
+$S 07	T+ Report	
+off	off	off	off	off
+$E
+$E
+$E

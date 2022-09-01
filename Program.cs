@@ -9,13 +9,19 @@ class Program
     
     private static string baurDTLCFileRoutinePath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/baur/DTLC/1196.22-routine.txt";
     private static string baurDTLCFileStandardPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/baur/DTLC/11872201-standard.txt";
+    private static string karlsFisherPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/metrohm/Karl Fischer/PC_LIMS_Report-117120-20220829-162747.txt";
+    private static string titrinoPlus887Path = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/metrohm/Titrino Plus 887/PC_LIMS_Report-94-20220830-150840.txt";
+    private static string ecoTritratoPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/metrohm/EcoTitrator/PC_LIMS_Report-teste1-20220830-134828.txt";
 
     private static void Main(string[] args)
     {
         // ReadAgilentFile();
         // ReadBaurDTLCRoutine();
-        ReadBaurDTLCStandard();
+        // ReadBaurDTLCStandard();
         // ReadBaurDTA100C();
+        ReadKarlsFisher();
+        ReadTitrinoPlus887();
+        ReadEcoTritrator();
     }
 
     public static void ReadAgilentFile()
@@ -45,4 +51,26 @@ class Program
         _baurDta100C.SetValueFromTxt(baurDTA100CFilePath);
         Console.WriteLine(JsonSerializer.Serialize(_baurDta100C, new JsonSerializerOptions(){WriteIndented = true}).ToString());
     }
+
+    public static void ReadKarlsFisher()
+    {
+        var _karlFisher = new KarlsFisherFile();
+        _karlFisher.SetValueFromTxt(karlsFisherPath);
+        Console.WriteLine(JsonSerializer.Serialize(_karlFisher, new JsonSerializerOptions(){WriteIndented = true}).ToString());
+    }
+
+    public static void ReadTitrinoPlus887()
+    {
+        var _titrinoPlus887 = new TitrinoPlus887();
+        _titrinoPlus887.SetValueFromTxt(titrinoPlus887Path);
+        Console.WriteLine(JsonSerializer.Serialize(_titrinoPlus887, new JsonSerializerOptions(){WriteIndented = true}).ToString());
+    }
+
+    public static void ReadEcoTritrator()
+    {
+        var _ecoTritrator = new EcoTitrator();
+        _ecoTritrator.SetValueFromTxt(ecoTritratoPath);
+        Console.WriteLine(JsonSerializer.Serialize(_ecoTritrator, new JsonSerializerOptions(){WriteIndented = true}).ToString());
+    }
+
 }

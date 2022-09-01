@@ -1,0 +1,151 @@
+$S PC/LIMS V1
+$S Devices V1
+$S device Eco Titrator V1
+P 5710080015	S 001000354288
+$E
+$E
+$S Sample data V1
+teste1	teste2	23.6879	g
+$E
+$S MPL  V2
+$S Mode 1	04	MET U	V1.0
+1	0.0000	45.9	0.0	0.1	25.0
+2	0.0400	35.8	-10.1	13.2	25.0
+3	0.0800	-11.4	-47.2	39.9	25.0
+4	0.1200	-112.3	-100.9	66.4	25.0
+5	0.1600	-228.6	-116.3	92.9	25.0
+6	0.2000	-302.3	-73.7	119.4	25.0
+7	0.2400	-323.0	-20.7	137.6	25.0
+8	0.2800	-329.5	-6.5	149.1	25.0
+9	0.3200	-333.8	-4.3	159.4	25.0
+10	0.3600	-336.4	-2.6	170.4	25.0
+11	0.4000	-340.9	-4.5	179.6	25.0
+12	0.4400	-340.6	0.3	189.1	25.0
+13	0.4800	-339.7	0.9	196.1	25.0
+14	0.5200	-341.6	-1.9	203.3	25.0
+15	0.5600	-343.3	-1.7	212.1	25.0
+16	0.5600	-343.3	0.0	217.8	25.0
+$E
+$E
+$S DETERM  V1
+$S Props V2
+AN ACIDO	Saved	20220830-135320	teste1	2022-08-30 13:48:28	original	Regular without errors		2																												
+$E
+$S Results V1
+$S Result 1C.R1 V1
+NUM AC	0.00	mgKOH/g	0
+$E
+$S Result 1C.R2 V1
+		%	-1
+$E
+$S Result 1C.R3 V1
+	Not defined	%	-1
+$E
+$S Result 1C.R4 V1
+	Not defined	%	0
+$E
+$S Result 1C.R5 V1
+	Not defined	%	0
+$E
+$E
+$S Mode 1	04	MET AN ACIDO	V2.0
+$S EP V1
+0.1277	-134.7	358.8	71.5	25	1
+$E
+$S Cal V1
+$E
+$E
+$S Other Variables V1
+$S System V1
+283	2	0	0			0		0
+$E
+$S Mode 1	04  U	V2.0
+0.959733	0.1	0.56		0.0000	82.6	25	45.9	25	60	-343.3	25	0.0000						0			Volume after EP reached				KOH					
+$E
+$S Statistic V2
+$E
+$S ComVar local V1
+$E
+$S Titrant V1
+ $S Titrant1 V1
+KOH	0.1	mol/L	0.959733		AN ACIDO	2022-08-30 13:48:28	0	20	0
+$E
+$E
+$S Sensor V1
+ $S Sensor1 V2
+pH electrode	pH			1.0	7.000	25.0		2021-05-20	Cal_pH	
+$E
+$E
+$E
+$S Calc Vars V1
+$S Calc1 V1
+ $S R1 V1
+C00	23.6879CV01	0.1398EP1	0.1277TITER	0.959733
+$E
+ $S R2 V1
+
+$E
+ $S R3 V1
+
+$E
+ $S R4 V1
+
+$E
+ $S R5 V1
+
+$E
+$E
+$E
+$S Messages V1
+$E
+$E
+$S Methodproperties V1
+AN ACIDO	Saved																																	
+$E
+$S Method V1
+$S Methodoptions V1.1
+Off	3	off	ID1	ID2	on	on	off	23.6879	g	off	0	0	off	0 s	off		off	off	Card 1		ID1	on	off	off	on	off	no	**********00**	off	off
+$E
+$S 01  REQUEST Data Request
+teste1	23.6879	g	off	on
+$E
+$S 02 MET U
+	0.0000 mL	Max. mL	60 s			Max. mL/min	30	0 s	26 s	user	0.04 mL	Max.	30 mV/min	0s	26 s	25.0 °C	2 mL	Off	1	0.4	Off	Max. mL/min	on	10 mV	first																																																																										pH_electrode			KOH	on	5	on	Off
+$E
+$S 03  PREP
+		KOH		
+$E
+$S 04  EVAL FIX-EP
+mV		Off	Off								
+$E
+$S 05  EVAL BREAK
+mV	10				-500	300	
+$E
+$S 06  CALC Calculation
+$S R1
+1	NUM AC	(EP1-CV01)*TITER*5.61/C00	2	mgKOH/g	0	Off	Off	0	on				-500	300			
+$E
+$S R2
+2			2	%	1	Off	Off	1	on				-500	300			
+$E
+$S R3
+3			2	%	2	Off	Off	2	on				-500	300			
+$E
+$S R4
+4			2	%	3	Off	Off	3	on				-500	300			
+$E
+$S R5
+5			2	%	4	Off	Off	4	on				-500	300			
+$E
+$E
+$S 07  Eco REPORT
+Off	Off	Off	Off	Off	Off	
+$E
+$S 08  STIR
+	on	6		
+$E
+$S 09  BEEP Acoustic signal
+1	
+$E
+$E
+$E
