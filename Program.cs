@@ -19,9 +19,9 @@ class Program
         // ReadBaurDTLCRoutine();
         // ReadBaurDTLCStandard();
         // ReadBaurDTA100C();
-        ReadKarlsFisher();
-        ReadTitrinoPlus887();
-        ReadEcoTritrator();
+        // ReadKarlsFisher();
+        // ReadTitrinoPlus887();
+        // ReadEcoTritrator();
     }
 
     public static void ReadAgilentFile()
