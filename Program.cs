@@ -13,6 +13,7 @@ class Program
     private static string titrinoPlus887Path = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/metrohm/Titrino Plus 887/PC_LIMS_Report-94-20220830-150840.txt";
     private static string ecoTritratoPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/metrohm/EcoTitrator/PC_LIMS_Report-teste1-20220830-134828.txt";
     private static string colorimetroPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/colorimetro/log00012.rtf";
+    private static string pamasPath = "C:/Users/jhonn/Desktop/CMP-Lab/readfile/files/pamas/ResultApos.txt";
 
     private static void Main(string[] args)
     {
@@ -24,6 +25,7 @@ class Program
         // ReadTitrinoPlus887();
         // ReadEcoTritrator();
         ReadColorimetro();
+        // ReadPamas();
     }
 
     public static void ReadAgilentFile()
@@ -80,6 +82,13 @@ class Program
         var _colorimetro = new Colorimetro();
         _colorimetro.SetValueFromTxt(colorimetroPath);
         Console.WriteLine(JsonSerializer.Serialize(_colorimetro, new JsonSerializerOptions(){WriteIndented = true}).ToString());
+    }
+
+    public static void ReadPamas()
+    {
+        var _pamas = new Pamas();
+        _pamas.SetValueFromTxt(pamasPath);
+        Console.WriteLine(JsonSerializer.Serialize(_pamas, new JsonSerializerOptions(){WriteIndented = true}).ToString());
     }
 
 }
